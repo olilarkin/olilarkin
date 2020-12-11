@@ -15,7 +15,7 @@ I'm Oli Larkin. I'm a generalist audio programmer, and I've been making audio pl
   - [Linux](https://github.com/iPlug2/iPlug2/issues/105)
   - [CMake](https://github.com/iPlug2/iPlug2/issues/39)
   - [Documentation](https://github.com/iPlug2/iPlug2/issues/470)
-  - [iPlug2 WAMs integration](https://github.com/iPlug2/iPlug2/issues/229)
+  - [Web Integration](https://github.com/iPlug2/iPlug2/issues/229)
   
 - 😄 Pronouns: He/Him
 
