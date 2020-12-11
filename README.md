@@ -15,3 +15,5 @@ I'm Oli Larkin. I'm a generalist audio programmer, and I've been making audio pl
   - https://twitter.com/olilarkin
   - http://www.olilarkin.co.uk
   - http://www.linkedin.com/in/olilarkin
+
+- 🤑 If you like my work and you'd like to support it, please [become a sponsor](https://github.com/sponsors/olilarkin)!
