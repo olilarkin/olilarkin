@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-<!--
-**olilarkin/olilarkin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Oli Larkin. I'm a generalist audio programmer, and I've been making audio plug-ins since 2003. 
 
-Here are some ideas to get you started:
+- Some things I'm interested in:
+  - lowering the barriers to entry for audio programming
+  - sound synthesis and music DSP
+  - web audio
+  - spatial audio
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m the lead developer of the [iPlug2](https://github.com/iPlug2), a liberally licensed and simple-to-use cross platform C++ audio plug-in framework
+- 🤔 I’m looking for help with [Linux](https://github.com/iPlug2/iPlug2/issues/105), [CMake](https://github.com/iPlug2/iPlug2/issues/39), [Documentation](https://github.com/iPlug2/iPlug2/issues/470) for iPlug2. I'm also interested in working with some experienced modern-web coders [improving the integration of iPlug2 WAMs into other sites](https://github.com/iPlug2/iPlug2/issues/229).
+- 😄 Pronouns: He/Him
+- 📫 How to reach me:
+  - http://www.olilarkin.co.uk
+  - http://www.linkedin.com/in/olilarkin
