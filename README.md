@@ -5,8 +5,8 @@ I'm Oli Larkin. I'm a generalist audio programmer, and I've been making audio pl
 - Some things I'm interested in:
   - lowering the barriers to entry for audio programming
   - sound synthesis and music DSP
-  - web audio
-  - spatial audio and XR
+  - web audio and web assembly
+  - spatial audio, ambisonics and VR/XR
   - DSLs for audio programming such as [faust](http://faust.grame.fr) and [SOUL](https://soul.dev)
   - CI/CD automation and cloud development
 
