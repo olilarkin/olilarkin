@@ -7,7 +7,7 @@ I'm Oli Larkin. I'm a generalist audio programmer, and I've been making audio pl
   - sound synthesis and music DSP
   - web audio and web assembly
   - spatial audio, ambisonics and VR/XR
-  - DSLs for audio programming such as [faust](http://faust.grame.fr) and [SOUL](https://soul.dev)
+  - DSLs such as [faust](http://faust.grame.fr) and [SOUL](https://soul.dev)
   - CI/CD automation and cloud development
 
 - 🔭 I’m the lead developer of [iPlug2](https://iPlug2.github.io), a liberally licensed and simple-to-use cross platform C++ audio plug-in framework
