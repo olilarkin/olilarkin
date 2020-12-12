@@ -3,7 +3,7 @@
 I'm Oli Larkin. I'm a generalist audio programmer, and I've been making audio plug-ins since 2003. 
 
 - Some things I'm interested in:
-  - lowering the barriers to entry for audio programming
+  - making it easier for people to code audio-things
   - sound synthesis and music DSP
   - web audio and web assembly
   - spatial audio, ambisonics and VR/XR
