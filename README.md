@@ -2,7 +2,7 @@
 
 I'm Oli Larkin. I'm a generalist audio programmer, and I've been making audio plug-ins since 2003. 
 
-- Some things I'm interested in:
+- I'm interested in:
   - making it easier for people to code audio-things
   - sound synthesis and music DSP
   - web audio and web assembly
