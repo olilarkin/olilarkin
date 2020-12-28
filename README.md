@@ -13,6 +13,7 @@ I'm Oli Larkin. I'm a generalist audio programmer, and I've been making audio pl
 - 🔭 I’m the lead developer of [iPlug2](https://iPlug2.github.io), a liberally licensed and simple-to-use cross platform C++ audio plug-in framework
 
 - 🤔 I’m looking for help with 
+  - [Accessibility](https://github.com/iPlug2/iPlug2/issues/671)
   - [Linux](https://github.com/iPlug2/iPlug2/issues/105)
   - [CMake](https://github.com/iPlug2/iPlug2/issues/39)
   - [Documentation](https://github.com/iPlug2/iPlug2/issues/470)
