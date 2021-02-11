@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello 👋
 
 I'm Oli Larkin. I'm a generalist audio programmer, and I've been making audio plug-ins since 2003. 
 
