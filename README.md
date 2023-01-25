@@ -6,7 +6,7 @@ I'm Oli Larkin. I'm a generalist audio programmer, and I've been making audio pl
   - making it easier for people to code audio-things [iPlug2](https://iPlug2.github.io)
   - sound synthesis and music: DSP: [Tambura model](https://github.com/olilarkin/Tambura)
   - web audio and web assembly [WAMs](https://webaudiomodules.org)
-  - spatial audio, ambisonics and VR/XR: [SpatialAudioKit]((https://spatialaudiokit.github.io) 
+  - spatial audio, ambisonics and VR/XR: [SpatialAudioKit](https://spatialaudiokit.github.io) 
   - DSLs such as [faust](http://faust.grame.fr) and [cmajor](https://cmajor.dev)
   - CI/CD automation and cloud development e.g. [iPlug2OOS](https://github.com/iPlug2/iPlug2OOS)
 
