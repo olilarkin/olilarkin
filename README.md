@@ -26,6 +26,6 @@ I'm Oli Larkin. I'm a generalist audio programmer, and I've been making audio pl
   - http://www.olilarkin.co.uk
   - http://www.linkedin.com/in/olilarkin
 
-- 🤑 If you like my work and you'd like to support it, please [become a github sponsor](https://github.com/sponsors/olilarkin)
+- 🤑 If you like my work and you'd like to support it, please follow me on github and [become a github sponsor](https://github.com/sponsors/olilarkin)
 
 - 🖋 I blog about my activities and the latest iPlug2 developments on [my patreon page](https://www.patreon.com/olilarkin)
