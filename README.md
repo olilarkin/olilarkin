@@ -1,8 +1,10 @@
 ### Hello 👋
 
-I'm Oli Larkin. I'm a generalist audio programmer, and I've been making audio plug-ins since 2003. 
+I'm Oli Larkin. I'm a generalist audio programmer. 
 
-- Working at [Ableton](https://ableton.com/) since 2021
+- I'm working at [Ableton](https://ableton.com/) since 2021 but
+- I've been making audio plug-ins since 2003. [My first ever VST plugin @KvR](https://www.kvraudio.com/product/advanced_midi_gate_by_oli_larkin)
+- Checkout my [VirtualCZ Casio CZ emulator/editor](https://www.pluginboutique.com/product/1-Instruments/4-Synth/1158-VirtualCZ)
 
 - I'm interested in:
   - making it easier for people to code audio-things: [iPlug2](https://iPlug2.github.io)
