@@ -2,6 +2,8 @@
 
 I'm Oli Larkin. I'm a generalist audio programmer, and I've been making audio plug-ins since 2003. 
 
+- Working at [Ableton](https://ableton.com/) since 2021
+
 - I'm interested in:
   - making it easier for people to code audio-things: [iPlug2](https://iPlug2.github.io)
   - sound synthesis and music: DSP: [Tambura model](https://github.com/olilarkin/Tambura)
