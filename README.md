@@ -14,6 +14,7 @@ I'm Oli Larkin. I'm a generalist audio programmer.
   - spatial audio, ambisonics and VR/XR: [SpatialAudioKit](https://spatialaudiokit.github.io) 
   - DSLs such as [faust](http://faust.grame.fr) and [cmajor](https://cmajor.dev)
   - CI/CD automation and cloud development: [iPlug2OOS](https://github.com/iPlug2/iPlug2OOS)
+  - using machine learning in audio/music software: [OrtBuilder](https://github.com/olilarkin/ort-builder)
 
 - 🤔 I’m looking for help with 
   - [Accessibility](https://github.com/iPlug2/iPlug2/issues/671)
