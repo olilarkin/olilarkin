@@ -17,11 +17,11 @@ I'm Oli Larkin. I'm a generalist audio programmer.
   - using machine learning in audio/music software: [OrtBuilder](https://github.com/olilarkin/ort-builder)
 
 - 🤔 I’m looking for help with 
-  - [Accessibility](https://github.com/iPlug2/iPlug2/issues/671)
-  - [Linux](https://github.com/iPlug2/iPlug2/issues/105)
-  - [CMake](https://github.com/iPlug2/iPlug2/issues/39)
-  - [Documentation](https://github.com/iPlug2/iPlug2/issues/470)
-  - [Web Integration](https://github.com/iPlug2/iPlug2/issues/229)
+  - [iPlug2 Accessibility](https://github.com/iPlug2/iPlug2/issues/671)
+  - [iPlug2 Linux support](https://github.com/iPlug2/iPlug2/issues/105)
+  - [iPlug2 CMake](https://github.com/iPlug2/iPlug2/issues/39)
+  - [iPlug2 Documentation](https://github.com/iPlug2/iPlug2/issues/470)
+  - [iPlug2 Web Integration](https://github.com/iPlug2/iPlug2/issues/229)
   
 - 😄 Pronouns: He/Him
 
