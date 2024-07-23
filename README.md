@@ -5,7 +5,8 @@ I'm Oli Larkin. I'm a generalist audio programmer.
 - I'm working at [Ableton](https://ableton.com/) since 2021
 - I've been making audio plug-ins since [2003](https://www.kvraudio.com/product/advanced_midi_gate_by_oli_larkin)
 - Check out my main product [VirtualCZ](https://www.pluginboutique.com/product/1-Instruments/4-Synth/1158-VirtualCZ)
-- I’m the lead developer of [iPlug2](https://iPlug2.github.io), a liberally licensed and simple-to-use cross platform C++ audio plug-in framework
+- I’m the lead developer of [iPlug2](https://iPlug2.github.io)
+  (a liberally licensed and simple-to-use cross platform C++ audio plug-in framework)
 
 - I'm interested in:
   - making it easier for people to code audio-things: [iPlug2](https://iPlug2.github.io)
