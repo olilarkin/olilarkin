@@ -4,8 +4,8 @@ I'm Oli Larkin. I'm a generalist audio programmer, based in Berlin.
 
 - I'm working at [Ableton](https://ableton.com/) since 2021
 - I've been making audio plug-ins since [2003](https://www.kvraudio.com/product/advanced_midi_gate_by_oli_larkin)
-- I've built successful products such as [VirtualCZ](https://www.pluginboutique.com/product/1-Instruments/4-Synth/1158-VirtualCZ)
-- I’m the lead developer of [the iPlug2 audio plug-in framework](https://iPlug2.github.io)
+- I've built successful products such as [VirtualCZ (2014)](https://www.pluginboutique.com/product/1-Instruments/4-Synth/1158-VirtualCZ)
+- I’m the lead developer of [the iPlug2 audio plug-in framework (2018... formerly WDL-OL 2011)](https://iPlug2.github.io)
 
 - I'm interested in:
   - making it easier for people to code audio-things: [iPlug2](https://iPlug2.github.io)
@@ -23,8 +23,6 @@ I'm Oli Larkin. I'm a generalist audio programmer, based in Berlin.
   - [iPlug2 Documentation](https://github.com/iPlug2/iPlug2/issues/470)
   - [iPlug2 Web Integration](https://github.com/iPlug2/iPlug2/issues/229)
   
-- 😄 Pronouns: He/Him
-
 - 📫 How to reach me:
   - https://bsky.app/profile/olilarkin.bsky.social
   - http://www.olilarkin.co.uk
