@@ -20,7 +20,6 @@ I'm Oli Larkin. I'm a generalist audio programmer, based in Berlin.
 - 🤔 I’m looking for help with 
   - [iPlug2 Accessibility](https://github.com/iPlug2/iPlug2/issues/671)
   - [iPlug2 Linux support](https://github.com/iPlug2/iPlug2/issues/105)
-  - [iPlug2 CMake](https://github.com/iPlug2/iPlug2/issues/39)
   - [iPlug2 Documentation](https://github.com/iPlug2/iPlug2/issues/470)
   - [iPlug2 Web Integration](https://github.com/iPlug2/iPlug2/issues/229)
   
