@@ -10,7 +10,7 @@ I'm Oli Larkin. I'm a generalist audio programmer, based in Berlin.
 - I'm the co-author of [WebAudioModules v1 (2015)](https://www.webaudiomodules.com)
 
 - I'm interested in:
-  - making it easier for people to code audio-things: [iPlug2](https://iPlug2.github.io)
+  - making it easier for people to code audio-things: (WDL-OL/iPlug2/[iPlug3](https://github.com/iPlug3))
   - sound synthesis and music DSP: [Tambura model](https://github.com/olilarkin/Tambura)
   - web audio and web assembly: [WAMs](https://webaudiomodules.com)
   - spatial audio, ambisonics and VR/XR: [SpatialAudioKit](https://spatialaudiokit.github.io) 
