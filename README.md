@@ -6,7 +6,7 @@ I'm Oli Larkin. I'm a generalist audio programmer, based in Berlin.
 - I've been making audio plug-ins since [2003](https://www.kvraudio.com/product/advanced_midi_gate_by_oli_larkin)
 - I've built successful products such as [VirtualCZ (2014)](https://www.pluginboutique.com/product/1-Instruments/4-Synth/1158-VirtualCZ)
 - I'm the creator of [iPlug3 (2026)](https://github.com/iPlug3) - a cross platform audio plug-in/app framework for the agentic era
-- I’m the lead developer of [iPlug2 (2011/2018-)](https://iPlug2.github.io) - a cross platform audio plug-in framework
+- I’m the lead developer of [iPlug2 (2018-)](https://iPlug2.github.io) - a cross platform audio plug-in framework
 - I'm the co-author of [WebAudioModules v1 (2015)](https://www.webaudiomodules.com)
 
 - I'm interested in:
